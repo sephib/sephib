@@ -1,7 +1,11 @@
 # Joseph (Sephi) Berry 
 
-<p> <a href="https://sephib.github.com" target="_blank"><img alt="My Personal Website" src="https://img.shields.io/badge/-My--Homepage-2e8b57?logo=nones&style=for-the-badge" /></a> <a href="https://www.linkedin.com/in/berrygis/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>  <a href="https://twitter.com/geosephi" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a><a href="https://dev.to/sephib" target="_blank"><img src="https://img.shields.io/badge/DEV-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=black" alt="Sephi Berry's DEV Profile">
-</a>
+<p> 
+<a href="https://sephib.github.com" target="_blank"><img alt="My Personal Website" src="https://img.shields.io/badge/-My--Homepage-2e8b57?logo=nones&style=for-the-badge" /></a> 
+<a href="https://www.linkedin.com/in/berrygis/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>  
+<a href="https://twitter.com/geosephi" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>   
+<a href="https://dev.to/sephib" target="_blank"><img alt="DEV" src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev.to&logoColor=black" ></a>  
+
 </p>
 
 ## My github stats
